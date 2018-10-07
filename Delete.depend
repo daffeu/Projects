@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1538934659 source:c:\users\pavel\documents\pr\delete\main.cpp
+	<iostream>
+	<cstdlib>
+	<clocale>
+
